@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Nice to meet you! I work for Red Hat, on the OpenShift API Server and Auth
-team. You can find me on the Kubernetes [Slack](https://kubernetes.slack.com).
+Nice to meet you! I work for [Exotanium](https://exotanium.io/). You can find me on the Kubernetes [Slack](https://kubernetes.slack.com).
 
 Check out some of my featured blog posts:
 
