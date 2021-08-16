@@ -4,6 +4,7 @@ Nice to meet you! I work for [Exotanium](https://exotanium.io/). You can find me
 
 Check out some of my featured blog posts:
 
+* [Kubernetes — Running Multiple Container Runtimes](https://ihcsim.medium.com/kubernetes-running-multiple-container-runtimes-65220b4f9ef4)
 * [Surviving The API Storm With Priority And Fairness](https://www.openshift.com/blog/surviving-the-api-storm-with-api-priority-fairness)
 * [Kubernetes API Priority And Fairness](https://itnext.io/kubernetes-api-priority-and-fairness-b1ef2b8a26a2?sk=8caee3ff05dc17de1abe2dad0bb66ac3)
 * [How It Works - kubectl exec](https://itnext.io/how-it-works-kubectl-exec-e31325daa910?sk=e5261140e813905ff72ec2d7fd12ddf3)
