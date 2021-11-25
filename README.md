@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to meet you! I work for [Exotanium](https://exotanium.io/). You can find me on the Kubernetes [Slack](https://kubernetes.slack.com).
+Nice to meet you! Want to talk about Kubernetes? Find me on the Kubernetes [Slack](https://kubernetes.slack.com/archives/D1ZPX0J8G).
 
 Check out some of my featured blog posts:
 
@@ -14,4 +14,9 @@ Check out some of my featured blog posts:
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ihcsim&show_icons=true" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihcsim" />
+</div>
+
+<div>
+  <div><a href="https://www.codementor.io/@ihcsim?refer=badge"><img src="https://www.codementor.io/m-badges/ihcsim/find-me-on-cm-b.svg" alt="Codementor badge"></a></div>
+  <div><a href="https://stackoverflow.com/users/1144203/ivan-sim"><img src="https://stackoverflow.com/users/flair/1144203.png?theme=dark" width="208" height="58" alt="profile for ivan.sim at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ivan.sim at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></div>
 </div>
