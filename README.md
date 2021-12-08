@@ -15,7 +15,7 @@ Check out some of my featured blog posts:
   <img align="left" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihcsim" />
   <img src="https://github-readme-stats.vercel.app/api?username=ihcsim&show_icons=true" />  
   <div align="right">
-    <div><a href="https://www.codementor.io/@ihcsim?refer=badge"><img src="https://www.codementor.io/m-badges/ihcsim/find-me-on-cm-b.svg" alt="Codementor badge"></a></div>
+    <div><a href="https://www.codementor.io/@ihcsim?refer=badge"><img src="https://www.codementor.io/m-badges/ihcsim/im-a-cm-b.svg" alt="Codementor badge"></a></div>
     <div><a href="https://stackoverflow.com/users/1144203/ivan-sim"><img src="https://stackoverflow.com/users/flair/1144203.png?theme=dark" width="208" height="55" alt="profile for ivan.sim at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ivan.sim at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></div>
   </div>
 </div>
