@@ -11,6 +11,8 @@ Check out some of my featured blog posts:
 * [Create Your Own Network Namespace](https://itnext.io/create-your-own-network-namespace-90aaebc745d?sk=96542e5aca4696282c43bb70175f0801)
 * [On gRPC Load Balancing](https://itnext.io/on-grpc-load-balancing-683257c5b7b3)
 
+More at [blog.isim.dev](https://blog.isim.dev).
+
 <div>
   <img align="left" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihcsim" />
   <img src="https://github-readme-stats.vercel.app/api?username=ihcsim&show_icons=true" />  
