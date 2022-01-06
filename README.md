@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to meet you! Want to talk about Kubernetes? Find me on the Kubernetes [Slack](https://kubernetes.slack.com/archives/D1ZPX0J8G).
+Nice to meet you! Need help with Kubernetes? Find me on the Kubernetes [Slack](https://kubernetes.slack.com).
 
 Check out some of my featured blog posts:
 
