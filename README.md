@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to meet you! Need help with Kubernetes? Find me on [codementor.io](https://www.codementor.io/@ihcsim).
+Nice to meet you! Need help with Kubernetes? Find me at [codementor.io](https://www.codementor.io/@ihcsim).
 
 Check out some of my featured blog posts:
 
