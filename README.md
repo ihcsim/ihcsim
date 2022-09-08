@@ -2,7 +2,7 @@
 
 Nice to meet you! Need help with Kubernetes? Find me at [codementor.io](https://www.codementor.io/@ihcsim).
 
-Check out some of my featured blog posts:
+Check out some of my featured blog posts ✍️:
 
 * [An Introduction To Rust Ownership For Go Developers - Moves (Part 1)](https://itnext.io/an-introduction-to-rust-ownership-for-go-developers-moves-part-1-413450497d4d?sk=9fbe89cdf488a224bbae1c7bf7885abb)
 * [Kubernetes — Running Multiple Container Runtimes](https://ihcsim.medium.com/kubernetes-running-multiple-container-runtimes-65220b4f9ef4)
@@ -14,7 +14,7 @@ Check out some of my featured blog posts:
 
 More at [blog.isim.dev](https://blog.isim.dev).
 
-Previous Talks:
+Previous Talks 🎙️:
 
 * [Enhancing Data Protection Workflows With Kanister And Argo Workflows](https://youtu.be/nqfP1e9jeU4)
 * [Kanister: Application-Level Data Protection On Kubernetes](https://youtu.be/GSgFwAHLziA)
