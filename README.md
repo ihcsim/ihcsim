@@ -4,6 +4,7 @@ Nice to meet you! Need help with Kubernetes? Find me at [codementor.io](https://
 
 Check out some of my featured blog posts:
 
+* [An Introduction To Rust Ownership For Go Developers - Moves (Part 1)](https://itnext.io/an-introduction-to-rust-ownership-for-go-developers-moves-part-1-413450497d4d?sk=9fbe89cdf488a224bbae1c7bf7885abb)
 * [Kubernetes — Running Multiple Container Runtimes](https://ihcsim.medium.com/kubernetes-running-multiple-container-runtimes-65220b4f9ef4)
 * [Surviving The API Storm With Priority And Fairness](https://www.openshift.com/blog/surviving-the-api-storm-with-api-priority-fairness)
 * [Kubernetes API Priority And Fairness](https://itnext.io/kubernetes-api-priority-and-fairness-b1ef2b8a26a2?sk=8caee3ff05dc17de1abe2dad0bb66ac3)
@@ -13,11 +14,13 @@ Check out some of my featured blog posts:
 
 More at [blog.isim.dev](https://blog.isim.dev).
 
-<div>
-  <img align="left" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihcsim" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ihcsim&show_icons=true" />  
-  <div align="right">
-    <div><a href="https://www.codementor.io/@ihcsim?refer=badge"><img src="https://www.codementor.io/m-badges/ihcsim/im-a-cm-b.svg" alt="Codementor badge"></a></div>
-    <div><a href="https://stackoverflow.com/users/1144203/ivan-sim"><img src="https://stackoverflow.com/users/flair/1144203.png?theme=dark" width="208" height="55" alt="profile for ivan.sim at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ivan.sim at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></div>
-  </div>
-</div>
+Previous Talks:
+
+* [Enhancing Data Protection Workflows With Kanister And Argo Workflows](https://youtu.be/nqfP1e9jeU4)
+* [Kanister: Application-Level Data Protection On Kubernetes](https://youtu.be/GSgFwAHLziA)
+* [Enforcing Automatic mTLS With Linkerd and OPA Gatekeeper](https://youtu.be/gMaGVHnvNfs)
+
+![](https://raw.githubusercontent.com/ihcsim/ihcsim/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/ihcsim/ihcsim/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/ihcsim/ihcsim/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/ihcsim/ihcsim/main/profile-summary-card-output/nord_dark/3-stats.svg)
