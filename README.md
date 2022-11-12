@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to meet you! Need help with Kubernetes? Find me at [codementor.io](https://www.codementor.io/@ihcsim).
+Nice to meet you! I am a Software Engineer working on data protection stuff on Kubernetes. Feel free to connect on <a rel="me" href="https://hachyderm.io/@ihcsim">Mastodon</a>.
 
 Check out some of my featured blog posts ✍️:
 
