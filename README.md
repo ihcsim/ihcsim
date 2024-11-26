@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to meet you! I am a Software Engineer working on data protection stuff on Kubernetes. Feel free to connect on <a href="https://hachyderm.io/@ihcsim">Mastodon</a>.
+Nice to meet you! I am a Software Engineer working on Harvester HCI at SUSE. Feel free to connect on <a href="https://hachyderm.io/@ihcsim">Mastodon</a>.
 
 Check out some of my featured blog posts ✍️:
 
