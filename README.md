@@ -4,6 +4,7 @@ Nice to meet you! I am a Software Engineer working on Harvester HCI at SUSE.
 
 Check out some of my featured blog posts ✍️:
 
+* [SUSE Virtualization – Traffic Split With Kubernetes Gateway API](https://www.suse.com/c/suse-virtualization-traffic-split-with-kubernetes-gateway-api/)
 * [SUSE Virtualization – Enforcing Admission Resource Integrity With Validating Admission Policy](https://www.suse.com/c/rancher_blog/suse-virtualization-enforcing-admission-resource-integrity-with-validating-admission-policy/)
 * [How It Works - Validating Admission Policy](https://ihcsim.medium.com/how-it-works-validating-admission-policy-0664d23ce230)
 * [An Introduction To Rust Ownership For Go Developers - Moves (Part 1)](https://itnext.io/an-introduction-to-rust-ownership-for-go-developers-moves-part-1-413450497d4d?sk=9fbe89cdf488a224bbae1c7bf7885abb)
